@@ -4,6 +4,7 @@
 
 [![Travis](https://img.shields.io/travis/northwesternmutual/kanali/master.svg)](https://travis-ci.org/northwesternmutual/kanali) [![Coveralls](https://img.shields.io/coveralls/northwesternmutual/kanali/master.svg)](https://coveralls.io/github/northwesternmutual/kanali) [![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://github.com/northwesternmutual/kanali/tree/master/docs/docs.md) [![OpenTracing Badge](https://img.shields.io/badge/OpenTracing-enabled-blue.svg)](http://opentracing.io) [![Tutorial](https://img.shields.io/badge/tutorial-postman-orange.svg)](http://tutorial.kanali.io) [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/northwesternmutual/kanali)
 [![Go Report Card](https://goreportcard.com/badge/github.com/northwesternmutual/kanali)](https://goreportcard.com/report/github.com/northwesternmutual/kanali)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fharemantra%2Fkanali.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fharemantra%2Fkanali?ref=badge_shield)
 
 Kanali is an extremely efficient [Kubernetes](https://kubernetes.io/) ingress controller with robust API management capabilities. Built using native Kubernetes constructs, Kanali gives you all the capabilities you need when exposing services in production without the need for multiple tools to accomplish them. Here are some notable features:
 
@@ -175,3 +176,7 @@ Kanali accepts configuration files in `JSON`, `YAML`, `TOML`, or `HCL` formats. 
 * `./conifig.ext`
 
 Reference [config.toml](./config.toml) for a complete example.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fharemantra%2Fkanali.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fharemantra%2Fkanali?ref=badge_large)
